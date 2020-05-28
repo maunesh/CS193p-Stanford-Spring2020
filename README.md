@@ -30,12 +30,12 @@
 
 [lecture3-image]:https://img.shields.io/badge/Lecture%2003-Reactive%20UI%20Protocols%20Layout-d63031?style=social&logo=YouTube
 [lecture3-url]:https://youtu.be/SIYdYpPXil4
-[slide3-image]:https://img.shields.io/badge/03-Lecture%2002-yellow?style=plastic&logo=Adobe%20Acrobat%20Reader
+[slide3-image]:https://img.shields.io/badge/03-Lecture%2003-yellow?style=plastic&logo=Adobe%20Acrobat%20Reader
 [slide3-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/blob/master/Slides/Lecture-03.pdf
 
 [lecture4-image]:https://img.shields.io/badge/Lecture%2004-Grid%20enum%20Optional-d63031?style=social&logo=YouTube
 [lecture4-url]:https://youtu.be/eHEeWzFP6O4
-[slide4-image]:https://img.shields.io/badge/04-Lecture%2002-yellow?style=plastic&logo=Adobe%20Acrobat%20Reader
+[slide4-image]:https://img.shields.io/badge/04-Lecture%2004-yellow?style=plastic&logo=Adobe%20Acrobat%20Reader
 [slide4-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/blob/master/Slides/Lecture-04.pdf
 
 ## Readings 
