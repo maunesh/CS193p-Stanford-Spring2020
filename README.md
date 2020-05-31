@@ -43,14 +43,16 @@
 | :--           |
 | [![Reading1][reading1-image]][reading1-url] |
 
-[reading1-image]:https://img.shields.io/badge/01-Intro%20to%20Swift-blue?style=plastic&logo=Adobe%20Acrobat%20Reader
+[reading1-image]:https://img.shields.io/badge/01-Intro%20to%20Swift-ff69b4?style=plastic&logo=Adobe%20Acrobat%20Reader
 [reading1-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/blob/master/Readings/r1.pdf
 
 ## Assignments
 
 | Assignment  | Solution
 | ------------- | -------------
-| [![Assignment1][assignment1-image]][assignment1-url]
+| [![Assignment1][assignment1-image]][assignment1-url] | [![Solution1][solution1-image]][solution1-url]
 
 [assignment1-image]:https://img.shields.io/badge/01-Memorize-green?style=plastic&logo=Adobe%20Acrobat%20Reader
 [assignment1-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/blob/master/Assignments/Assignment-01/a1.pdf
+[solution1-image]:https://img.shields.io/badge/Assignment-1-blue?style=flat&logo=Xcode
+[solution1-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/tree/master/Assignments/Assignment-01/Memorize
