@@ -43,7 +43,7 @@
 | :--           |
 | [![Reading1][reading1-image]][reading1-url] |
 
-[reading1-image]:https://img.shields.io/badge/01-Intro%20to%20Swift-ff69b4?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=red
+[reading1-image]:https://img.shields.io/badge/01-Intro%20to%20Swift-9cf?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=red
 [reading1-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/blob/master/Readings/r1.pdf
 
 ## Assignments
