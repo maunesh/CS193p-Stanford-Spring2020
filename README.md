@@ -54,5 +54,5 @@
 
 [assignment1-image]:https://img.shields.io/badge/01-Memorize-green?style=plastic&logo=Adobe%20Acrobat%20Reader
 [assignment1-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/blob/master/Assignments/Assignment-01/a1.pdf
-[solution1-image]:https://img.shields.io/badge/01-Solution-blue?style=flat&logo=Xcode
+[solution1-image]:https://img.shields.io/badge/01-Solution-blue?style=plastic&logo=Xcode
 [solution1-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/tree/master/Assignments/Assignment-01/Memorize
