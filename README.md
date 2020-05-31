@@ -18,24 +18,24 @@
 [lecture1-url]:https://www.youtube.com/watch?v=jbtqIBpUG7g&feature=youtu.be
 [memorize1-image]:https://img.shields.io/badge/Memorize-v0.1-orange?style=flat&logo=Swift
 [memorize1-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/tree/master/Lectures/Lecture-01/Memorize
-[slide1-image]:https://img.shields.io/badge/01-Lecture%2001-yellow?style=plastic&logo=Adobe%20Acrobat%20Reader
+[slide1-image]:https://img.shields.io/badge/01-Lecture%2001-yellow?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=red
 [slide1-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/blob/master/Slides/Lecture-01.pdf
 
 [lecture2-image]:https://img.shields.io/badge/Lecture%2002-MVVM%20and%20the%20Swift%20Type%20System-d63031?style=social&logo=YouTube
 [lecture2-url]:https://www.youtube.com/watch?v=4GjXq2Sr55Q&feature=youtu.be
 [memorize2-image]:https://img.shields.io/badge/Memorize-v0.2-orange?style=flat&logo=Swift
 [memorize2-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/tree/master/Lectures/Lecture-02/Memorize
-[slide2-image]:https://img.shields.io/badge/02-Lecture%2002-yellow?style=plastic&logo=Adobe%20Acrobat%20Reader
+[slide2-image]:https://img.shields.io/badge/02-Lecture%2002-yellow?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=red
 [slide2-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/blob/master/Slides/Lecture-02.pdf
 
 [lecture3-image]:https://img.shields.io/badge/Lecture%2003-Reactive%20UI%20Protocols%20Layout-d63031?style=social&logo=YouTube
 [lecture3-url]:https://youtu.be/SIYdYpPXil4
-[slide3-image]:https://img.shields.io/badge/03-Lecture%2003-yellow?style=plastic&logo=Adobe%20Acrobat%20Reader
+[slide3-image]:https://img.shields.io/badge/03-Lecture%2003-yellow?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=red
 [slide3-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/blob/master/Slides/Lecture-03.pdf
 
 [lecture4-image]:https://img.shields.io/badge/Lecture%2004-Grid%20enum%20Optional-d63031?style=social&logo=YouTube
 [lecture4-url]:https://youtu.be/eHEeWzFP6O4
-[slide4-image]:https://img.shields.io/badge/04-Lecture%2004-yellow?style=plastic&logo=Adobe%20Acrobat%20Reader
+[slide4-image]:https://img.shields.io/badge/04-Lecture%2004-yellow?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=red
 [slide4-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/blob/master/Slides/Lecture-04.pdf
 
 ## Readings 
@@ -43,7 +43,7 @@
 | :--           |
 | [![Reading1][reading1-image]][reading1-url] |
 
-[reading1-image]:https://img.shields.io/badge/01-Intro%20to%20Swift-ff69b4?style=plastic&logo=Adobe%20Acrobat%20Reader
+[reading1-image]:https://img.shields.io/badge/01-Intro%20to%20Swift-ff69b4?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=red
 [reading1-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/blob/master/Readings/r1.pdf
 
 ## Assignments
@@ -52,7 +52,7 @@
 | ------------- | -------------
 | [![Assignment1][assignment1-image]][assignment1-url] | [![Solution1][solution1-image]][solution1-url]
 
-[assignment1-image]:https://img.shields.io/badge/01-Assignment-blue?style=plastic&logo=Adobe%20Acrobat%20Reader
+[assignment1-image]:https://img.shields.io/badge/01-Assignment-green?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=red
 [assignment1-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/blob/master/Assignments/Assignment-01/a1.pdf
-[solution1-image]:https://img.shields.io/badge/01-Solution-green?style=plastic&logo=Xcode
+[solution1-image]:https://img.shields.io/badge/01-Solution-lightgray?style=plastic&logo=Xcode&logoColor=blue
 [solution1-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/tree/master/Assignments/Assignment-01/Memorize
