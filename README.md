@@ -1,5 +1,5 @@
 # CS193p-Stanford-Spring2020
-#### [Developing Apps for iOS](https://cs193p.sites.stanford.edu/about-cs193p)
+#### [Developing Apps for iOS (SwiftUI)](https://cs193p.sites.stanford.edu/about-cs193p)
 
 
 ## Lectures
