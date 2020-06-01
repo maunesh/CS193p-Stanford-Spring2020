@@ -7,7 +7,7 @@
 | ------------- | ------------- | ------------- | ------------- 
 | 1. | [![Slide1][slide1-image]][slide1-url] | [![Memorize][memorize1-image]][memorize1-url] | [![Lecture1][lecture1-image]][lecture1-url]  
 | 2. | [![Slide2][slide2-image]][slide2-url] | [![Memorize][memorize2-image]][memorize2-url] | [![Lecture2][lecture2-image]][lecture2-url]  
-| 3. | [![Slide3][slide3-image]][slide3-url] |  | [![Lecture3][lecture3-image]][lecture3-url]  
+| 3. | [![Slide3][slide3-image]][slide3-url] | [![Memorize][memorize3-image]][memorize3-url] | [![Lecture3][lecture3-image]][lecture3-url]  
 | 4. | [![Slide4][slide4-image]][slide4-url] |  | [![Lecture4][lecture4-image]][lecture4-url]  
 
 
@@ -30,6 +30,8 @@
 
 [lecture3-image]:https://img.shields.io/badge/Lecture%2003-Reactive%20UI%20Protocols%20Layout-d63031?style=social&logo=YouTube
 [lecture3-url]:https://youtu.be/SIYdYpPXil4
+[memorize3-image]:https://img.shields.io/badge/Memorize-v0.3-orange?style=flat&logo=Swift
+[memorize3-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/tree/master/Lectures/Lecture-03/Memorize
 [slide3-image]:https://img.shields.io/badge/03-Lecture%2003-yellow?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=red
 [slide3-url]:https://github.com/maunesh/CS193p-Stanford-Spring2020/blob/master/Slides/Lecture-03.pdf
 
